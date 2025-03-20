@@ -8,5 +8,5 @@
 // susikurti aplanakal - test
 // test -> sukurti testNo1.js (vienas failas vienas testas)
 
-const {Builder, By, Key, until} = require('selenium-webdriver');
-const should = require('chai').should();
+// const {Builder, By, Key, until} = require('selenium-webdriver');
+// const should = require('chai').should();
